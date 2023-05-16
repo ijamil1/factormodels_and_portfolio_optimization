@@ -1,2 +1,2 @@
-# beta_exploration
-Explore Betting Against Beta idea and empirical strength of CAPM
+# Factor Models and Portfolio Optimization
+Explore CAPM, factor models, and portfolio optimization
